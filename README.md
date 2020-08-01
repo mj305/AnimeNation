@@ -1,6 +1,6 @@
 # Anime Nation  -  React App
 
--This is a super cool Marvel App were you can check out tons of characters and learn more about your favorite heroes!
+-This is a super cool Anime Search App were you can check out tons of characters!
 
 
 ## Technologies used
